@@ -1,0 +1,21 @@
+.list-items {
+  list-style: none;
+  margin: 7px;
+  background-color: #ffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image {
+  height: 200px;
+  width: 300px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.description {
+  width: 300px;
+  font-family: 'Roboto';
+  padding: 6px;
+}
